@@ -1,4 +1,4 @@
-# Poppy_Humanoid_Robot_Control
+# Poppy Humanoid Robot Control
 Experimenting various ways to control poppy_humanoid
 
 # Support
